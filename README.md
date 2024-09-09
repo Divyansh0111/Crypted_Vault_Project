@@ -26,7 +26,7 @@ CryptedVaultYT Setup Instructions
 
 Step 1: Clone the Repository
 
-Clone the repository from GitHub using the following command: git clone https://github.com/kshitijofficial/cryptedVaultYT.git
+Clone the repository from GitHub using the following command: git clone https://github.com/Divyansh0111/Crypted_Vault_Project
 
 Step 2: Setup Server Environment Variables
 
