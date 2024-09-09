@@ -26,11 +26,11 @@ CryptedVaultYT Setup Instructions
 
 Step 1: Clone the Repository
 
-Clone the repository from GitHub using the following command: git clone https://github.com/Divyansh0111/Crypted_Vault_Project
+Clone the repository from GitHub using the following command : git clone https://github.com/Divyansh0111/Crypted_Vault_Project
 
 Step 2: Setup Server Environment Variables
 
-Navigate to the server directory: cd cryptedVaultYT/server
+Navigate to the server directory : cd Backend_server/server
 
 -> Create a new .env file in the server directory with the following entries. These environment variables will be used in config/serverConfig.js.
 
@@ -43,14 +43,14 @@ Replace your_mongodb_url, your_jwt_secret_key, your_pinata_api_key, and your_pin
 
 Step 3: Start the Server
 
-Run the server using npm: npm start
+Run the server using npm : npm start
 
 Step 4: Setup Client Environment
 
-Navigate to the client directory: cd client
+Navigate to the client directory : cd client
 
 Step 5: Start the Client
 
-Run the client using npm: npm run dev
+Run the client using npm : npm run dev
 
 Now, you should be able to access the CryptedVaultYT application locally.
