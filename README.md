@@ -1,4 +1,5 @@
 # Crypted_Vault_Project
+
 Crypted IPFS Vault using MERN Stack and Blockchain
 
 Overview
@@ -22,7 +23,7 @@ IPFS (InterPlanetary File System): Peer-to-peer network for storing and sharing 
 Blockchain: Used for authentication and storing file metadata securely.
 
 
-CryptedVaultYT Setup Instructions
+Crypted Vault Setup Instructions
 
 Step 1: Clone the Repository
 
